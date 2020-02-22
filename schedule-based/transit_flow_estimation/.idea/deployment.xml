@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="c2smart@10.18.17.159:22">
+    <serverData>
+      <paths name="c2smart">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/c2smart/Desktop/transit_flow_estimation" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="c2smart@10.18.17.159:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/c2smart/Desktop/transit_flow_estimation" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

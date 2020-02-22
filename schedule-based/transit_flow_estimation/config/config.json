@@ -1,0 +1,59 @@
+{
+	"TRANSIT_TYPE": "Bus",
+
+	"HORIZON": 120,
+	"ANALYSIS_START": 0,
+	"ANALYSIS_PERIOD": 60,
+
+	"MAX_NUMBER_OF_ITERATIONS_FOR_BILEVEL_MODEL": 200,
+	"MAX_NUMBER_OF_ITERATIONS_FOR_ASSIGNMENT_MODEL": 15,
+
+	"CONVERGENCE_CRITERION_FOR_BILEVEL_MODEL": 0.00001,
+	"CONVERGENCE_CRITERION_FOR_ASSIGNMENT_MODEL": 0.00001,
+
+	"STARTING_TIME_OF_HORIZON": "07:00:00",
+	"ENDING_TIME_OF_HORIZON": "08:00:00",
+
+	"MAX_NUMBER_OF_STRATEGIES": 100,
+	"MAX_NUMBER_OF_STRATEGIES_STATIC_MODEL": 100,
+
+	"MEASUREMENT_PERIOD": 1,
+
+	"SMALL_CONST": 0.000001,
+	"LARGE_CONST": 1000000,
+
+	"VALUE_OF_TIME": 1.0,
+
+	"DISPLAY_PROGRESS": 0,
+
+	"test_StaticNetwork": 0,
+	"test_TimeExpandedNetwork": 0,
+
+	"test_Graph": 0,
+	"test_find_initial_strategy": 0,
+	"test_load_strategy_flow": 0,
+	"test_find_optimal_strategy": 0,
+	"test_quadratic_programming": 0,
+	"test_prob_initialization": 0,
+
+	"test_loaded_od_flow": 1,
+	"DEMAND_LEVEL": "high",
+	"ADD_NOISE": 0,
+	"VARIANCE_OF_LOG_PERCENTAGE_NOISE": 0,
+	"NUM_HYPERPATH_ENUMERATED": 3,
+
+	"test_static_assignment_algorithm": 0,
+	"test_static_model": 0,
+
+	"WAITING_TIME_COEFF": 1,
+
+	"test_schedule_based_path_flow_estimator_without_ue": 0,
+	"MAX_DETOUR_FACTOR": 2.0,
+
+	"DOUBLE_STREAMLINED": 0,
+
+	"QUADRATIC_PROG_SOLVING_PKG": "gurobi",
+	"INTEGER_PROG": 0,
+
+	"SMARTCARD_DATA_DIR": "Desktop"
+}

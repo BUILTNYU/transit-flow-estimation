@@ -1,0 +1,9 @@
+link_id,route_id,starting_stop,ending_stop,link_type,travel_time,frequency,capacity,travel_cost
+L1,R1,N1,N3,,15,,,
+L2,R1,N3,N5,,15,,,
+L3,R2,N1,N3,,15,,,
+L4,R2,N3,N4,,10,,,
+L5,R2,N4,N5,,10,,,
+L6,R3,N1,N2,,10,,,
+L7,R3,N2,N3,,10,,,
+L8,R3,N3,N5,,15,,,
