@@ -49,6 +49,6 @@ numpy, groubi (preferred) or cvxopt
   "upstream_stops", "down_stream_stops" for nodes.
 
 ## Contributors
-Qi Liu (ql375@nyu.edu);
-Joseph Chow (joseph.chow@nyu.edu);
-C2SMART, Tandon School of Engineering, NYU.
+ Qi Liu (ql375@nyu.edu
+ Joseph Chow (joseph.chow@nyu.edu)
+ C2SMART, Tandon School of Engineering, NYU
