@@ -19,10 +19,10 @@ This program is designed to estimate/predict transit flow based on count data at
  - exit_count_by_designated_period.csv
  - wifi_count_by_designated_period.csv
 
-## External Dependencies
-numpy, groupi (preferred) or cvxopt, matplotlib
+## Dependencies
+numpy, groubi (preferred) or cvxopt
 
-## Naming conventions for variables:
+## Naming Conventions for Variables:
  Transit Stops ID: N1, N2 ...
  Transit Routes ID: R1, R2 ...
  Directional Transit Routes ID: (Route_Direction) R1_0, R1_1,R2_0 ... 
