@@ -22,7 +22,7 @@ This program is designed to estimate/predict transit flow based on count data at
 ## Dependencies
 numpy, groubi (preferred) or cvxopt
 
-## Naming Conventions for Variables:
+## Summation of Naming Conventions for Variables:
  Transit Stops ID: N1, N2 ...;
  Transit Routes ID: R1, R2 ...;
  Directional Transit Routes ID: (Route_Direction) R1_0, R1_1,R2_0 ...;
@@ -49,6 +49,6 @@ numpy, groubi (preferred) or cvxopt
   "upstream_stops", "down_stream_stops" for nodes.
 
 ## Contributors
- Qi Liu (ql375@nyu.edu
- Joseph Chow (joseph.chow@nyu.edu)
- C2SMART, Tandon School of Engineering, NYU
+Qi Liu (ql375@nyu.edu
+Joseph Chow (joseph.chow@nyu.edu)
+C2SMART, Tandon School of Engineering, NYU
