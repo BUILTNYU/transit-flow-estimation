@@ -23,15 +23,15 @@ This program is designed to estimate/predict transit flow based on count data at
 numpy, groubi (preferred) or cvxopt
 
 ## Naming Conventions for Variables:
- Transit Stops ID: N1, N2 ...
- Transit Routes ID: R1, R2 ...
- Directional Transit Routes ID: (Route_Direction) R1_0, R1_1,R2_0 ... 
- Transit Links ID: L1, L2 ...
- Additonal Links ID in static model: LA1, LA2 ...
- Additional Nodes ID in static model: (Node_Route_Direation) N1_R1_0 ...
- Services ID: S1, S2, ...
- Transit Trips ID: (Service_Route_Direction_trip) S1_R1_0_1, S1_R1_1_3...
- Nodes in time-expanded network: (Node_time) N1_23 ...
+ Transit Stops ID: N1, N2 ...;
+ Transit Routes ID: R1, R2 ...;
+ Directional Transit Routes ID: (Route_Direction) R1_0, R1_1,R2_0 ...;
+ Transit Links ID: L1, L2 ...;
+ Additonal Links ID in static model: LA1, LA2 ...;
+ Additional Nodes ID in static model: (Node_Route_Direation) N1_R1_0 ...;
+ Services ID: S1, S2, ...;
+ Transit Trips ID: (Service_Route_Direction_trip) S1_R1_0_1, S1_R1_1_3...;
+ Nodes in time-expanded network: (Node_time) N1_23 ...;
 
  "exp" means "expanded";
  "_set" means that this represents a set;
@@ -41,14 +41,14 @@ numpy, groubi (preferred) or cvxopt
  "num_" means "number of ...";
  "_last" means from last iteration; 
  "sn" for static network obj;
- "tn" for time-expanded network obj
+ "tn" for time-expanded network obj;
 
- These terms are frequenctly used: 
+ These terms are frequenctly used:
   "starting_stops", "ending_stops" for links;
   "incoming_links", "outgoing_links" for nodes;
   "upstream_stops", "down_stream_stops" for nodes.
 
 ## Contributors
-Qi Liu (ql375@nyu.edu)
-Joseph Chow (joseph.chow@nyu.edu)
-C2SMART, Tandon School of Engineering, NYU
+Qi Liu (ql375@nyu.edu);
+Joseph Chow (joseph.chow@nyu.edu);
+C2SMART, Tandon School of Engineering, NYU.
