@@ -4,10 +4,10 @@
 This program is designed to estimate/predict transit flow based on count data at stops; see paper Liu and Chow - schedule-based transit flow estimation for more details.
 
 ## How to Run
-0. Computer must support python3;
-1. Prepare and put data in transit_flow_estimation/data folder (this folder already contains data based on Sioux Falls network);
+0. The computer must support python3;
+1. Prepare and put the data in transit_flow_estimation/data folder (this folder already contains data based on Sioux Falls network);
 2. Configure the model by modifying the config/config.json file;
-3. Run transit_flow_estimation; results would be stored in results folder.
+3. Run transit_flow_estimation.py; results would be stored in results folder.
 
 ## Data Requirements
  - stop.cvs
