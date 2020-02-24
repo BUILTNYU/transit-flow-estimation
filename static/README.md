@@ -12,8 +12,8 @@ Spiess, H. and Florian, M., 1989. Optimal strategies: a new assignment model for
 3. Run transit_flow_estimation.py; Results would be stored in results folder.
 
 ## Data Requirements
- - stop.cvs (GTFS)
- - routes.cvs (GTFS)
+ - stop.cvs
+ - routes.cvs
  - links.cvs
  - frequencies.cvs
  - vehicle_capacity_of_routes.csv
