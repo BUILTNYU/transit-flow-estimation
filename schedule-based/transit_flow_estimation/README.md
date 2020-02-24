@@ -1,4 +1,4 @@
-# Transit Flow Estimation Tool V1.0
+# Transit Flow Estimation Tool (schedule-based flow version) V1.0
 
 ## Descriptions
 This program is designed to estimate/predict transit flow based on count data at stops; see paper Liu and Chow - schedule-based transit flow estimation for more details.
