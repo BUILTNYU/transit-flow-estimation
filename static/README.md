@@ -4,6 +4,7 @@
 This program is designed to estimate/predict transit flow based on hsitory measurement (count) data at stops.
 The assignment model is based on the classic work: 
 Spiess, H. and Florian, M., 1989. Optimal strategies: a new assignment model for transit networks. Transportation Research Part B: Methodological, 23(2), pp.83-102.
+Two modes are supported: 1) transit flow assignment mode; 2) transit flow estimation mode.
 
 ## How to Run
 0. The computer must support python3;
