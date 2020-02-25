@@ -9,7 +9,7 @@ Spiess, H. and Florian, M., 1989. Optimal strategies: a new assignment model for
 0. The computer must support python3;
 1. Prepare and put data in transit_flow_estimation;
 2. Modify the config/config.json file to configure the program;
-3. Run transit_flow_estimation.py; Results would be stored in results folder.
+3. Run transit_flow_estimation.py; results would be stored in results folder.
 
 ## Data Requirements
  - stop.cvs
