@@ -23,7 +23,7 @@ Two modes are supported: 1) transit flow assignment mode; 2) transit flow estima
 ## Dependencies
 numpy, groubi (preferred) or cvxopt
 
-## Summation of Naming Conventions for Variables:
+## Naming Conventions for Variables:
  Transit Stops ID: N1, N2 ...;
  Transit Routes ID: R1, R2 ...;
  Directional Transit Routes ID: (Route_Direction) R1_0, R1_1,R2_0 ...;
