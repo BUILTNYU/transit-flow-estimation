@@ -2,6 +2,7 @@
 
 ## Descriptions
 This program is designed to estimate/predict transit flow based on count data at stops; see paper Liu and Chow - schedule-based transit flow estimation for more details.
+
 Two modes are supported: 1) transit flow assignment mode; 2) transit flow estimation mode.
 
 ## How to Run
