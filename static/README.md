@@ -7,7 +7,7 @@ Spiess, H. and Florian, M., 1989. Optimal strategies: a new assignment model for
 Two modes are supported: 1) transit flow assignment mode; 2) transit flow estimation mode.
 
 ## How to Run
-0. The computer must support python3;
+0. The computer must support python3; install dependencies;
 1. Prepare and put data in transit_flow_estimation;
 2. Modify the config/config.json file to configure the program;
 3. Run transit_flow_estimation.py; results would be stored in results folder.
