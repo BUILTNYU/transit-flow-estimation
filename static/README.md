@@ -12,6 +12,9 @@ Two modes are supported: 1) transit flow assignment mode; 2) transit flow estima
 2. Modify the config/config.json file to configure the program;
 3. Run transit_flow_estimation.py; results would be stored in results folder.
 
+## Dependencies
+numpy, cvxopt
+
 ## Data Requirements
  - stop.cvs
  - routes.cvs
