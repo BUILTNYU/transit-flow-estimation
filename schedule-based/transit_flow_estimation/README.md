@@ -5,7 +5,7 @@ This program is designed to estimate/predict transit flow based on count data at
 Two modes are supported: 1) transit flow assignment mode; 2) transit flow estimation mode.
 
 ## How to Run
-0. The computer must support python3;
+0. The computer must support python3; install dependencies;
 1. Prepare and put the data in transit_flow_estimation/data folder (this folder already contains data based on Sioux Falls network);
 2. Configure the model by modifying the config/config.json file;
 3. Run transit_flow_estimation.py; results would be stored in results folder.
