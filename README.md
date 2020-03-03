@@ -3,7 +3,7 @@ This project contains two tools for transit flow estimation; one for schedule-ba
 The orgnization and structure of these two tools are similar; they have two modes: assginent mode and estimation mode.
 Welcome to point out the issues in these code. Welcome to use these code for research purpose, and please cite:
 
-Liu, Q. and Chow, J. schedule-based transit flow estimation, (TBD), 2020.
+>Liu, Q. and Chow, J. schedule-based transit flow estimation, (TBD), 2020.
 
 Contributors:
 Qi Liu, ql375@nyu.edu
